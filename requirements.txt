@@ -1,0 +1,6 @@
+groq
+supabase
+python-dotenv
+requests
+aiohttp
+httpx
